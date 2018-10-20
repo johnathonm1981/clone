@@ -40,3 +40,5 @@ add_subdirectory(dxlib-sample)
 add_subdirectory(dotnetc)
 endif (WIN32)
 # HLSL Change Ends
+
+add_subdirectory(SecureHLSL)
